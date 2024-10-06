@@ -1,6 +1,6 @@
 # MyUniTasks
 
-This project is a minimalist **To-Do List** app for iOS built using **UIKit** and **UserDefaults** to store tasks locally. The app follows a black-and-green hacker-style theme and allows users to create, edit, and delete to-do items, each with a due date.
+This project is a minimalist **To-Do List** app for iOS built using **UIKit** and **UserDefaults** to store tasks locally. The app follows a black-and-green theme and allows users to create, edit, and delete to-do items, each with a due date.
 
 ## Features
 - Add tasks with a title and due date.
