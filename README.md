@@ -22,7 +22,3 @@ Add screenshots of your app to show the UI and functionality (optional).
 - **Xcode 12** or higher
 - **iOS 13** or higher
 
-### Steps to run the project
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
